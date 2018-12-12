@@ -1,0 +1,29 @@
+div {
+  color: white;
+  text-align: center
+}
+body {
+  background-color: #36454f;
+}
+
+.toggle {
+  box-align: right;
+}
+.search-text {
+  width: 290px;
+  height: 25px;
+}
+.search-bar {
+  font-size: 30px;
+  padding:10px;
+}
+.MovieList {
+  display: inline-block;
+  width: 300px;
+  padding-bottom: 30px;
+}
+.movie {
+  color: aqua;
+  padding: 10px;
+  background-color: black;
+}
